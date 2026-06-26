@@ -1,1 +1,1 @@
-# dai-ex
+del ex
